@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pointsbet/PointsBet/_apis/build/status%2Fyashjain10038.pipelines-java?branchName=main)](https://dev.azure.com/pointsbet/PointsBet/_build/latest?definitionId=1712&branchName=main)
 
 # Contributing
 
