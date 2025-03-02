@@ -1,8 +1,8 @@
-trigger:
+
 pr:
   - main
   - releases/*
-  
+
 strategy:
   matrix:
     jdk10_linux:
